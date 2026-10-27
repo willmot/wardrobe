@@ -1,0 +1,21 @@
+# Dependencies and build output
+node_modules/
+.next/
+out/
+coverage/
+*.tsbuildinfo
+next-env.d.ts
+*.log
+.DS_Store
+# Private state and user configuration: never commit
+.runtime/
+.data/
+data/
+tmp/
+backups/
+wardrobe.config.json
+.env*
+!.env.example
+# Keep private images outside public/. Only reviewed demo art belongs there.
+public/*
+!public/demo/

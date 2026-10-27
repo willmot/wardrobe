@@ -1,0 +1,6 @@
+{
+  "profiles": [
+    { "id": "default", "name": "Your name", "photosName": "Your Photos search name", "initials": "YN" }
+  ],
+  "seedDemo": false
+}
